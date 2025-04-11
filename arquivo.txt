@@ -1,1 +1,2 @@
 Olá, Git!
+-> Este arquivo, agora, está na branch3
